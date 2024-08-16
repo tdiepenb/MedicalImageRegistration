@@ -36,8 +36,8 @@ Version 3.9.19 or 3.10 with TensorFlow Version 2.15.
 
 The ANTsPy Notebook uses [AntsPy](https://github.com/ANTsX/ANTsPy) version 0.5.3 and was run on Python Version 3.12. as
 it wouldn't work with Python 3.10.
-The ANTsPy Evaluation takes quite a bit of time when Run on Colab using the CPU, we therefore recommend running this
-Notebook either on your local machine or using the T4 Runtime of Colab.
+The ANTsPy Evaluation takes quite a bit of time when Run on Colab, we therefore recommend running this
+Notebook on your local machine.
 
 Other libraries used in the AbdomenCTCT directory included:
 
